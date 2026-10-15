@@ -13,3 +13,5 @@ wenden Sie sich bitte an unseren Support unter betterevidence@hdtit.atlassian.ne
 oder 
 besuchen Sie https://hdtit.atlassian.net/servicedesk/customer/portal/36, um Hilfe zu erhalten.
 
+Systemvoraussetzungen:
+Windows 11 und Google Chrome Browser in einer aktuellen Version
